@@ -6,4 +6,4 @@
 # npx prisma migrate dev -> migration
 # npx nodemon src/index.ts -> run server
 
-DATABASE_URL="mysql://root:Vik571999*@localhost:3306/library"
+DATABASE_URL="banco-sql(ex: mysql)://username:password@localhost:port/database"
